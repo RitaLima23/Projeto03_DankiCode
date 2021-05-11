@@ -1,2 +1,11 @@
-# Projeto_02
-Projeto 02 criado através de aprendizados no curso de front-end da Danki code, utilizando Html e Css
+# Projeto_03
+# PROJETO 03 - LOVERSNIFFER (LANDINGPAGE QUE SIMULA UMA REDE DE ENCONTROS ROMÂNTICOS) 
+CURSO: FRONT-END DANKI CODE 👩🏻‍💻
+
+*Tecnologias utilizadas:*
+- HTML5
+- CSS3
+- Photoshop para a criação da logo e ícones
+
+*Diferencial:*
+- Responsividade
